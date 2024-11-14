@@ -26,7 +26,9 @@
 2. Репозиторий с инфраструктурой: https://gitlab.com/AlexeyD31/netology-diplom.git
 3. Репозиторий с приложением:https://gitlab.com/AlexeyD31/netology-diplom-app.git
 4. Ссылка на сайт: https://app.cicd-tools.ru/
-5. Ссылка на мониторинг: https://monitoring.cicd-tools.ru/
+   ![alt text](img/app.jpg)
+6. Ссылка на мониторинг: https://monitoring.cicd-tools.ru/
+   ![alt text](img/monitoring.jpg)
 
 ### Скриншоты этапов:
 Пайп инфра:
